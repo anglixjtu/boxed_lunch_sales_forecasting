@@ -24,7 +24,7 @@ from evaluation.error_list import ErrorList
 import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument('--datadir', dest='data_dir', type=str, default="./data/",help='Directory for loading input data')
-parser.add_argument('--outdir', dest='output_dir', type=str, default="./outputs/",help='Directory for saving output files')
+parser.add_argument('--outdir', dest='output_dir', type=str, default="../outputs/",help='Directory for saving output files')
 parser.add_argument('--past_step', dest='past_step', type=int, default=2, help='The length of lagged variables')
 parser.add_argument('--out_step', dest='out_step', type=int, default=2, help='The length of outputs')
 
