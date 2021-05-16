@@ -17,13 +17,13 @@ This repository provides a solution for a practice problem on SIGNATE:  [Boxed L
 
 ## 1. Exploratory Data Analysis
 
-To perform exploratory data analysis and check the results, run code in [exploratory_data_analysis](notebook/exploratory_data_analysis.ipynb).
+To perform exploratory data analysis and check the results, run code in [exploratory_data_analysis](notebooks/exploratory_data_analysis.ipynb).
 
 ## 2. Machine Learning Modeling
 
 To perform machine learning modeling, you can execute  
 
-1. Jupyter Notebook code in [modeling](notebook/modeling.ipynb), or
+1. Jupyter Notebook code in [modeling](notebooks/modeling.ipynb), or
 
 2. Python code in [train_valid_models.py](train_valid_models.py).
 
